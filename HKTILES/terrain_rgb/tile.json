@@ -1,0 +1,14 @@
+{
+  "description": "HK terrain",
+  "format": "png",
+  "id": "HKterrain",
+  "maxzoom": 14,
+  "minzoom": 8,
+  "name": "HK terrain",
+  "scheme": "xyz",
+  "tilejson": "2.1.0",
+  "tiles": [
+    "/HKTILES/terrain_rgb/{z}/{x}/{y}.png"
+  ],
+  "version": "3"
+}
